@@ -1,0 +1,18 @@
+{
+  "themes": [{
+      "name": "default",
+      "title": "Genero PaaS",
+      "uses": ["platform/desktop"]
+    },
+    {
+      "name": "default_mobile",
+      "title": "Default",
+      "uses": ["platform/mobile"]
+    },
+    {
+      "name": "highcontrast_mobile",
+      "title": "High contrast",
+      "uses": ["platform/mobile", "colors/highcontrast"]
+    }
+  ]
+}
