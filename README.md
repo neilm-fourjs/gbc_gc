@@ -1,6 +1,6 @@
 # GBC MDI Customisation
 
-NOTE: The GBC customization was done using the 1.00.53 release.
+NOTE: The GBC customization was done using the 1.00.58 release.
 
 
 ## Folders
